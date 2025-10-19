@@ -6,3 +6,5 @@ with your own GCP project name.  After you do this, the queries integrated in Py
 
 ![Demo](assets/ScreenRecording2025-10-19at4.01.45PM-ezgif.com-video-to-gif-converter.gif)
 
+If you have any questions, feel free to email at mmatteuc@purdue.edu.
+
