@@ -4,7 +4,9 @@ Hello, and welcome to our analysis on The Look!  To reproduce our individual res
 
 with your own GCP project name.  After you do this, the queries integrated in Python should all work as intended.  We also included a report in our team folder illustrating all of our findings.
 
-![Demo](assets/ScreenRecording2025-10-19at4.01.45PM-ezgif.com-video-to-gif-converter.gif)
+<p align="center">
+  <img src="../assets/ScreenRecording2025-10-19at4.01.45PM-ezgif.com-video-to-gif-converter.gif" width="600">
+</p>
 
 If you have any questions, feel free to email at mmatteuc@purdue.edu.
 
