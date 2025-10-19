@@ -14,6 +14,8 @@ By the end of the DIVE process, I proposed two ideas for the company:
 
 These insights come from both data and validation, not just surface-level trends and quick analysis. Overall, this project taught me how to connect data accuracy with business relevance. The DIVE process helped me slow down, challenge early conclusions, and turn exploration into a story that decision-makers can trust.
 
-As a bonus, I calculated the customer retention rate by cohort month.  I did this by by engineering customer retention from active users and cohort sizes to see how well they were retaining their users.  I did this by year, and found their customer retention was not great, and can beimproved on in the future.  It is also important to recognize that they are currently doing very well, with increasing revenue, and therefore it is more important than ever to retain users. Maybe they should start loyalty or other programs to try to drive high-spending customers back to them.
+As a bonus, I calculated the customer retention rate by cohort month.  I did this by by engineering customer retention from active users and cohort sizes to see how well they were retaining their users.  I did this by year, and found their customer retention was not great, and can beimproved on in the future.  It is also important to recognize that they are currently doing very well, with increasing revenue, and therefore it is more important than ever to retain users. Possible solutions to this could be starting a loyalty program or invoke incentives to try to drive high-spending customers back to them.
+
+Using all three of these recommendations, The Look can capitalize on its rapid growth to lead to sustainable success.
 
 
