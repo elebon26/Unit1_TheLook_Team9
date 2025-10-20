@@ -10,3 +10,6 @@ with your own GCP project name.  After you do this, the queries integrated in Py
 
 If you have any questions, feel free to email at mmatteuc@purdue.edu.
 
+
+
+
