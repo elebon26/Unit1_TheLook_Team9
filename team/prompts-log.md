@@ -83,3 +83,32 @@ Prompt 5
 - Rounded floats to 4 decimals for Looker compatibility.  
 
 ---
+
+### 📊 Prompt 6 – Regional Sales and Profit Insights  
+**Visuals Used:** Sales % by Region + Top 10 Regions by Profit  
+
+The regional breakdown of sales and profit reveals both concentration and opportunity within *The Look’s* current market footprint.  
+The **Sales % by Region** and **Top 10 Regions by Profit** visuals show that *China* (34.4%) and *the United States* (22.1%) together generate over **55% of total revenue**, with *China alone contributing 34.4%*.  
+Despite this dominance, profitability is strongest in **Asian markets** such as *China* and *South Korea*, where margins are higher relative to costs.  
+Western markets deliver strong revenue volume but thinner profit margins, suggesting potential inefficiencies in fulfillment or pricing.  
+This regional contrast highlights an opportunity for *The Look* to balance its portfolio—maintaining growth in mature regions while expanding profit-focused operations in emerging ones.
+
+---
+
+### 🧵 Prompt 7 – Product Category Insights  
+**Visual Used:** Top 10 Product Categories by Revenue  
+
+The **Top 10 Product Categories by Revenue** chart highlights that *Outerwear & Coats* and *Jeans* remain *The Look’s* strongest performers, together generating roughly **$1.4 million in sales** over the last 30 days.  
+These categories anchor the company’s revenue base and show consistent, high-margin demand across regions.  
+Smaller categories like *Sleepwear* and *Intimates*—though lower in total revenue—display steady contribution, suggesting potential for targeted growth through seasonal or niche marketing campaigns.
+
+---
+
+### 💹 Prompt 8 – Profitability Correlation Analysis  
+**Visual Used:** Revenue vs Cost Scatter Plot  
+
+The **Revenue vs Cost Scatter Plot** reinforces these findings, revealing a clear positive correlation between higher revenue and profitability.  
+Larger bubbles in the upper-right quadrant represent **premium apparel categories** that deliver both strong sales and healthy margins.  
+This relationship emphasizes that *The Look’s* most sustainable path forward lies in expanding its premium product offerings and refining pricing strategies to prioritize long-term value over short-term discounting.  
+
+---
