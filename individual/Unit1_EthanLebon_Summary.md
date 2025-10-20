@@ -1,7 +1,6 @@
-Unit 1 DIVE Summary – The Look Dataset
+# Unit 1 Summary – Ethan Lebon
 
-Ethan Lebon
-October 2025
+**October 2025**
 
 My goal in this project was to use The Look dataset to identify what truly drives growth for the business, focusing on customer behavior, category performance, and channel effectiveness. I used SQL CTEs and window functions to calculate key metrics such as 90-day revenue trends, repeat purchase behavior, and average order value (AOV). My early findings suggested that discounts were a key revenue driver, but after deeper validation, I discovered that this was a misleading correlation.
 
