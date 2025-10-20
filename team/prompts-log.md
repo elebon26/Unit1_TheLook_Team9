@@ -29,7 +29,7 @@ The price reference fields exist in the `products` table instead.
 **Working SQL Snippet**
 ```sql
 AVG(SAFE_DIVIDE(p.retail_price - i.sale_price, p.retail_price)) AS avg_discount_rate
-
+```
 Result
 ✅ Query executed successfully.
 ✅ Joined correct tables (order_items, products, users).
