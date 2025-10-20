@@ -8,7 +8,7 @@ with your own GCP project name.  After you do this, the queries integrated in Py
   <img src="../assets/ScreenRecording2025-10-19at4.01.45PM-ezgif.com-video-to-gif-converter.gif" width="600">
 
 </p>
-**Prompt Enhancement GIF**
+As an example of our project, we showed an example of prompt engineering when facing errors in the GIF below.
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJzaWE3Z2tvNHo5bHN1aGtnZ2hrYjRlcHkyeGluaGFhNGoxMTZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z2Gpi6AbTxiccHeskY/giphy.gif" width="600" alt="Demo">
 </p>
